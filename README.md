@@ -58,12 +58,12 @@ http://opms.demo.milu365.cn/
 # 捐赠
 支付宝：
 
-![image](https://github.com/lock-upme/OPMS/blob/master/static/img/qrcode_alipay.png)
+![image](https://github.com/lock-upme/github.com/compty001/OPMS/blob/master/static/img/qrcode_alipay.png)
 
 微信:
 
-![image](https://github.com/lock-upme/OPMS/blob/master/static/img/qrcode_wechat.png)
+![image](https://github.com/lock-upme/github.com/compty001/OPMS/blob/master/static/img/qrcode_wechat.png)
 
 # 效果图预览
 
-![image](https://github.com/lock-upme/OPMS/blob/master/static/img/opms-view.png)
+![image](https://github.com/lock-upme/github.com/compty001/OPMS/blob/master/static/img/opms-view.png)

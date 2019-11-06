@@ -3,7 +3,7 @@ package test
 import (
 	"net/http"
 	"net/http/httptest"
-	_ "opms/routers"
+	_ "github.com/compty001/OPMS/routers"
 	"path/filepath"
 	"runtime"
 	"testing"

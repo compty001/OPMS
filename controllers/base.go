@@ -1,11 +1,11 @@
 package controllers
 
 import (
-	//"opms/initial"
+	//"github.com/compty001/OPMS/initial"
 
 	"fmt"
-	. "opms/models/groups"
-	. "opms/models/messages"
+	. "github.com/compty001/OPMS/models/groups"
+	. "github.com/compty001/OPMS/models/messages"
 	"strconv"
 	"strings"
 

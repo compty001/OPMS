@@ -3,9 +3,9 @@ package albums
 import (
 	"fmt"
 	"io"
-	"opms/controllers"
-	. "opms/models/albums"
-	"opms/utils"
+	"github.com/compty001/OPMS/controllers"
+	. "github.com/compty001/OPMS/models/albums"
+	"github.com/compty001/OPMS/utils"
 	"os"
 	"strconv"
 	"strings"

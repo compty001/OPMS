@@ -2,9 +2,9 @@ package resumes
 
 import (
 	"fmt"
-	"opms/controllers"
-	. "opms/models/resumes"
-	"opms/utils"
+	"github.com/compty001/OPMS/controllers"
+	. "github.com/compty001/OPMS/models/resumes"
+	"github.com/compty001/OPMS/utils"
 	"os"
 	"strconv"
 	"strings"

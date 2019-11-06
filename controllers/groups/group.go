@@ -2,9 +2,9 @@ package groups
 
 import (
 	"fmt"
-	"opms/controllers"
-	. "opms/models/groups"
-	"opms/utils"
+	"github.com/compty001/OPMS/controllers"
+	. "github.com/compty001/OPMS/models/groups"
+	"github.com/compty001/OPMS/utils"
 	"strconv"
 	"strings"
 	//"time"

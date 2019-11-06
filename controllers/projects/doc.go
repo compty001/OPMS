@@ -2,9 +2,9 @@ package projects
 
 import (
 	"fmt"
-	"opms/controllers"
-	. "opms/models/projects"
-	"opms/utils"
+	"github.com/compty001/OPMS/controllers"
+	. "github.com/compty001/OPMS/models/projects"
+	"github.com/compty001/OPMS/utils"
 	"os"
 	"strconv"
 	"strings"

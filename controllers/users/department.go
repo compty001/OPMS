@@ -2,9 +2,9 @@ package users
 
 import (
 	"fmt"
-	"opms/controllers"
-	. "opms/models/users"
-	"opms/utils"
+	"github.com/compty001/OPMS/controllers"
+	. "github.com/compty001/OPMS/models/users"
+	"github.com/compty001/OPMS/utils"
 	"strconv"
 	"strings"
 

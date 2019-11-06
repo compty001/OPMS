@@ -2,11 +2,11 @@ package goouts
 
 import (
 	"fmt"
-	"opms/controllers"
-	. "opms/models/goouts"
-	. "opms/models/messages"
-	. "opms/models/users"
-	"opms/utils"
+	"github.com/compty001/OPMS/controllers"
+	. "github.com/compty001/OPMS/models/goouts"
+	. "github.com/compty001/OPMS/models/messages"
+	. "github.com/compty001/OPMS/models/users"
+	"github.com/compty001/OPMS/utils"
 	"os"
 	"strconv"
 	"strings"
